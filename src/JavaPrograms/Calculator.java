@@ -16,6 +16,7 @@ public class Calculator
 	public void sum()
 	{
 		System.out.println("It performs sum");
+		System.out.println("test print");
 	}
 
 	public void sub()
